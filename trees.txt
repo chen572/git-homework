@@ -2,3 +2,4 @@ Oak
 Pine
 Dark Oak
 Birch
+Spruce
